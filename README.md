@@ -10,9 +10,9 @@ The following repository you're seeing here is made and optimized for a Roblox g
 6. Select the map folder once you're done, and export it to see a Results folder, in which you'll use it to copy the code and paste it into an empty file (This process will take slightly longer if your map is large).
 7. Copy the code that is shown in the results script, and if your map is larger than 1 part, stack them from top to bottom in terms of code.
 8. Make a new repository and a new file, then paste your entire code provided from the plugin to the file, while naming everything at the same time.
-9. Commit your changes, then go to the file, and it's RAW.
+9. Commit your changes, then go to the file, and it's RAW. (THIS IS WHERE YOU SHOULD START FOLLOWING IF YOU PLAN TO PLAY THIS MAP)
 10. Copy the RAW link, and go to Bad Business.
-11. (THIS IS REQUIRED FOR IT TO FUNCTION) Make a personal private server if you haven't (it's free), then join in your private server to test it out.
+11. (THIS IS REQUIRED FOR IT TO FUNCTION, AND FOR YOU TO TEST THIS OUT) Make a personal private server if you haven't (it's free), then join in your private server to test it out.
 12. Copy the RAW URL, then open up console by pressing F6.
 13. Type the following command: "admin_importmap", and then paste your RAW URL link next to it.
 14. If successful, the console will tell you that the import process worked, and you'll have to tell the console that you want your custom map to be played next just to verify it.
